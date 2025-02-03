@@ -56,8 +56,8 @@ h1,h2,h3,h4,h5
 /* start all section */
 #work, #about, #portfolio, #contact
     {
-        padding-top: 100px;
-        padding-bottom: 120px;
+        padding-top: 15px;
+        padding-bottom: 30px;
     }
 /* end all section */
 
@@ -171,7 +171,7 @@ h1,h2,h3,h4,h5
 /* start home */       
 #home
 	{
-        background: url('../images/home-bg.jpg');
+        background: url('../images/grass.png');
         background-size: cover;
         background-repeat: no-repeat;
         padding-top: 120px;
@@ -278,7 +278,7 @@ h1,h2,h3,h4,h5
         color: #ffffff;
         font-weight: bold;
         display: block;
-        padding-bottom: 6px;
+        padding-bottom: px;
     }
 #about small
     {
